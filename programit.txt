@@ -1,5 +1,4 @@
 CODING SYAICHONA
 - Belajar VSC
-- Belajar HTML Semantik
 - Belajar Git HuB
 - Praktek Coding HTML
