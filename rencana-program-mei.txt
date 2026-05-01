@@ -1,6 +1,7 @@
 RENCANA PROGRAM MEI
 
 - HTML
+ * SCC
 - PHP
 - JS
 - CSS
